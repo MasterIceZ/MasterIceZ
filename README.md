@@ -4,7 +4,7 @@
 
  🎓 I’m currently learning some of programming language (C,C++,Python,Go)
  
- 🎫 Contact : [Twitter](https://twitter.com/AiceAeng)<br>
+ 🎫 Contact : [Twitter](https://twitter.com/AiceAeng)<br> [Facebook](https://www.facebook.com/Borworntat.D)<br>
 
 
 <!--
