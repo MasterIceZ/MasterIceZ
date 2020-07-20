@@ -1,8 +1,10 @@
 ### Welcome IceBorworntat Github Profile 👋
  
- 🏫 I’m currently studying at Rayongwittayakom School (2023)
+ 🏫 I’m currently studying in High School (2023)
 
  🎓 I’m currently learning some of programming language (C,C++,Python,Go)
+ 
+ 📫 Undergrad (2027)
  
 ### 🎫 Contact
  [Twitter](https://twitter.com/AiceAeng)<br> 
