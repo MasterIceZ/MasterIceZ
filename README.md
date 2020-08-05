@@ -4,7 +4,7 @@
 
  🎓 I’m currently learning some of programming language (C,C++,Python,Go)
  
- 📫 Undergrad (2027)
+ 📫 In love with Compititive Programming
  
 ### 🎫 Contact
  [Twitter](https://twitter.com/AiceAeng)<br> 
