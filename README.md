@@ -1,10 +1,8 @@
 ### Welcome IceBorworntat Github Profile 👋
  
- 🏫 I’m currently studying in High School (2023)
-
- 🎓 I’m currently learning some of programming language (C,C++,Python,Go)
- 
- 📫 In love with Compititive Programming
+ 🏫 I’m currently studying in High School (2023)<br>
+ 🎓 I’m currently learning some of programming language (C,C++,Python,Go)<br>
+ 📫 In love with Compititive Programming<br>
  
 ### 🎫 Contact
  [Twitter](https://twitter.com/_ibwt)<br> 
