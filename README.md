@@ -7,8 +7,13 @@
  📫 In love with Compititive Programming
  
 ### 🎫 Contact
- [Twitter](https://twitter.com/AiceAeng)<br> 
+ [Twitter](https://twitter.com/_ibwt)<br> 
  [Facebook](https://www.facebook.com/Borworntat.D)<br>
+ [Codeforces](https://codeforces.com/profile/IceBorworntat)<br>
+### Rewards
+
+ - KU01 Finalist(2019)
+ - THACO Bronze Medal(2020)
 
 
 <!--
