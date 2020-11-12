@@ -10,12 +10,10 @@
  [Twitter](https://twitter.com/_ibwt)<br> 
  [Facebook](https://www.facebook.com/Borworntat.D)<br>
  [Codeforces](https://codeforces.com/profile/IceBorworntat)<br>
-### Rewards
-
- - KU01 Finalist(2019)
- - THACO Bronze Medal(2020)
-
-
+### Portfolio
+ - POSN Camp 1 @RYW (2019)
+ - KU01 Finalist (2019)
+ - THACO Bronze Medal (2020)
 <!--
 **MasterIceZ/MasterIceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
