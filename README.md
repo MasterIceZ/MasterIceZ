@@ -11,6 +11,7 @@
 ### Portfolio
  - POSN Camp 1 @RYW (2019)
  - KU01 Finalist (2019)
+ - FHC2020 Qualification Round(2020)
  - THACO Bronze Medal (2020)
 <!--
 **MasterIceZ/MasterIceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
