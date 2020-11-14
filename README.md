@@ -9,7 +9,7 @@
  [Facebook](https://www.facebook.com/Borworntat.D)<br>
  [Codeforces](https://codeforces.com/profile/IceBorworntat)<br>
 ### Portfolio
- - POSN Camp 1 @RYW (2019)
+ - Computer POSN Camp 1 @RYW (2019)
  - KU01 Finalist (2019)
  - FHC2020 Qualification Round(2020)
  - THACO Bronze Medal (2020)
