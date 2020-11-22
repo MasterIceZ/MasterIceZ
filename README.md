@@ -10,6 +10,7 @@
  - Go
  - C#
  - Shell
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### 🎫 Contact
  - [Twitter](https://twitter.com/_ibwt)<br> 
  - [Facebook](https://www.facebook.com/Borworntat.D)<br>
