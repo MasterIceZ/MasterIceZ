@@ -3,12 +3,13 @@
  🏫 I’m currently studying in High School (2023)<br>
  🎓 I’m currently learning some of programming language <br>
  📫 In love with Compititive Programming<br>
-### 💬 Language
+### 💬 Languages
  - C
  - C++
  - Python
  - Go
  - C#
+ - Shell
 ### 🎫 Contact
  - [Twitter](https://twitter.com/_ibwt)<br> 
  - [Facebook](https://www.facebook.com/Borworntat.D)<br>
