@@ -20,7 +20,7 @@
  - [FHC2020](https://www.facebook.com/codingcompetitions/hacker-cup/) Qualification Round(2020)
  - [THACO](https://www.thaco.tech) Bronze Medal (2020)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MasterIceZ/MasterIceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
