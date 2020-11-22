@@ -14,10 +14,10 @@
  [Facebook](https://www.facebook.com/Borworntat.D)<br>
  [Codeforces](https://codeforces.com/profile/IceBorworntat)<br>
 ### Portfolio
- - Computer [POSN](https://posn.or.th) Camp 1 @RYW (2019)
- - [KU01](https://ku01.org) Finalist (2019)
+ - Computer [POSN](https://www.posn.or.th) Camp 1 @[RYW](https://www.rayongwit.ac.th)(2019)
+ - [KU01](https://www.ku01.org) Finalist (2019)
  - [FHC2020](https://www.facebook.com/codingcompetitions/hacker-cup/) Qualification Round(2020)
- - [THACO](https://thaco.tech) Bronze Medal (2020)
+ - [THACO](https://www.thaco.tech) Bronze Medal (2020)
 <!--
 **MasterIceZ/MasterIceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
