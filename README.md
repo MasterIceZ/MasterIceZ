@@ -10,9 +10,9 @@
  - Go
  - C#
 ### 🎫 Contact
- [Twitter](https://twitter.com/_ibwt)<br> 
- [Facebook](https://www.facebook.com/Borworntat.D)<br>
- [Codeforces](https://codeforces.com/profile/IceBorworntat)<br>
+ - [Twitter](https://twitter.com/_ibwt)<br> 
+ - [Facebook](https://www.facebook.com/Borworntat.D)<br>
+ - [Codeforces](https://codeforces.com/profile/IceBorworntat)<br>
 ### Portfolio
  - Computer [POSN](https://www.posn.or.th) Camp 1 @[RYW](https://www.rayongwit.ac.th)(2019)
  - [KU01](https://www.ku01.org) Finalist (2019)
