@@ -4,7 +4,7 @@
  🎓 I’m currently learning some of programming language <br>
  📫 In love with Compititive Programming<br>
 ### 💬 Languages
-![](./C.png =250x)
+![](./C.png)
  - C++
  - Python
  - Go
