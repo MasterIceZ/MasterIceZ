@@ -11,5 +11,6 @@
  - [KU01](https://www.ku01.org) Finalist (2019)
  - [FHC2020](https://www.facebook.com/codingcompetitions/hacker-cup/) Qualification Round(2020)
  - [THACO](https://www.thaco.tech) Bronze Medal (2020)
+ - [KU01](https://www.ku01.org) Finalist (2020)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
