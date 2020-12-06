@@ -5,8 +5,7 @@
  📫 In love with Compititive Programming<br>
 ### 💬 Languages
 <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/C.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/cpp.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/Cs.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/python.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/Ts.png" width="50" height="50">
-### 🎫 Contact
-<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/tw.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/fb.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/ig.png" width="50" height="50">
+
 ### ⚡ Portfolio
  - Computer [POSN](https://www.posn.or.th) Camp 1 @[RYW](https://www.rayongwit.ac.th)(2019)
  - [KU01](https://www.ku01.org) Finalist (2019)
