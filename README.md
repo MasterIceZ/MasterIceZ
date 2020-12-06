@@ -4,7 +4,7 @@
  🎓 I’m currently learning some of programming language <br>
  📫 In love with Compititive Programming<br>
 ### 💬 Languages
-<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/C.png" width="100" height="100">
+<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/C.png" width="50" height="50">
  - C++
  - Python
  - Go
