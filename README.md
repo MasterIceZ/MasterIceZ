@@ -4,12 +4,7 @@
  🎓 I’m currently learning some of programming language <br>
  📫 In love with Compititive Programming<br>
 ### 💬 Languages
-<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/C.png" width="50" height="50">
- - C++
- - Python
- - Go
- - C#
- - Shell
+<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/C.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/cpp.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/Cs.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/python.png" width="50" height="50"> <img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/Ts.png" width="50" height="50">
 ### 🎫 Contact
  - [Twitter](https://twitter.com/_ibwt)<br> 
  - [Facebook](https://www.facebook.com/Borworntat.D)<br>
