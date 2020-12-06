@@ -4,7 +4,7 @@
  🎓 I’m currently learning some of programming language <br>
  📫 In love with Compititive Programming<br>
 ### 💬 Languages
-![](./C.png |width=100)
+![](./C.png | width=100)
  - C++
  - Python
  - Go
