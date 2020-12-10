@@ -14,4 +14,3 @@
  - [KU01](https://www.ku01.org) Finalist (2020)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![MasterIceZ's github stats](https://github-readme-stats.vercel.app/api?username=MasterIceZ)](https://github.com/anuraghazra/github-readme-stats)
