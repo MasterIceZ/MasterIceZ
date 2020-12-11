@@ -6,6 +6,9 @@ struct Info{
 	string Name = "Borworntat Dendumrongkul"
 	string Favorite_Language = "C++"
 	string Learning_Language[] = {"Go","Javascript","Typescript"};
+	string Project = "IntoDigest";
+	string Tools = "Git";
+	string Editor[] = {"Vim","VsCode","Pycharm","Micro","Emacs"};
 };
 ```
 <h2 align="center">💬 Languages</h2>
