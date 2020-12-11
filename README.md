@@ -13,4 +13,7 @@
  - [THACO](https://www.thaco.tech) Bronze Medal (2020)
  - [KU01](https://www.ku01.org) Finalist (2020)
  
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact)
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&langs_count=8)
