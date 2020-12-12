@@ -9,6 +9,7 @@ struct Info{
 	string Project = "IntoDigest";
 	string Tools = "Git";
 	string Editor[] = {"Vim","VsCode","Pycharm","Micro","Emacs"};
+	string Operating_System[] = {"Windows10","Ubuntu20.4","Kali Linux"};
 };
 ```
 <h2 align="center">💬 Languages</h2>
