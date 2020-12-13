@@ -1,5 +1,5 @@
 <p align=center>
-	<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/std.PNG">
+	<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/new_std.PNG">
 </p>
 
 <h2 align=center> _IceBorworntat's Profile </h2>
