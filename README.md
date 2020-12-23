@@ -6,8 +6,8 @@
 
 ```cpp
 struct Info{
-	string Name = "Borworntat Dendumrongkul"
-	string Favorite_Language = "C++"
+	string Name = "Borworntat Dendumrongkul";
+	string Favorite_Language[] = {"C++","C","Python"};
 	string Learning_Language[] = {"Go","Javascript","Typescript"};
 	string Project = "IntoDigest";
 	string Tools = "Git";
