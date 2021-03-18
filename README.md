@@ -1,9 +1,3 @@
-<!--
-<p align=center>
-	<img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/new_std.PNG">
-</p>
--->
-
 <h2 align="center"> _IceBorworntat's Profile </h2>
 <h3>
 	
@@ -20,8 +14,7 @@ struct Info{
 ```
 
 <h3>
-
-<h2 align="center">💬 Languages</h2>
+	
 <p align="center">
 	<code><img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/C.png" width="50" height="50"></code>
 	<code><img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/cpp.png" width="50" height="50"></code>
