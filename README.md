@@ -6,6 +6,7 @@
 
 <h2 align="center"> _IceBorworntat's Profile </h2>
 <h3>
+	
 ```cpp
 struct Info{
 	string Name = "Borworntat Dendumrongkul";
@@ -17,6 +18,7 @@ struct Info{
 	string Operating_System[] = {"Windows10","Ubuntu20.4","Kali Linux"};
 };
 ```
+
 <h3>
 
 <h2 align="center">💬 Languages</h2>
