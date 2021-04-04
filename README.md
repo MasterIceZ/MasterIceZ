@@ -1,4 +1,4 @@
-<h2 align="center"> [_IceBorworntat](https://mastericez.github.io)'s Profile </h2>
+<h2 align="center"> _IceBorworntat's Profile </h2>
 <h3>
 	
 ```cpp
@@ -25,6 +25,8 @@ struct Info{
 <!--
 <p align="center">
 <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api?username=MasterIceZ&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Borworntat's Status">
-	<img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact"/>
-</p>
 -->
+<p align="center">
+<img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact"/>
+</p>
+
