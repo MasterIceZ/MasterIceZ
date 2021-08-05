@@ -23,9 +23,9 @@ struct Info{
 	<code><img src="https://github.com/MasterIceZ/MasterIceZ/blob/master/Ts.png" width="50" height="50"></code>
 </p>
 <p align="center">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=mastericez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="MasterIceZ's Github Stats">
-<!--
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=mastericez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="MasterIceZ's Github Stats">  
+<
 <p align="center">
 <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact"/>
 </p>
--->
+
