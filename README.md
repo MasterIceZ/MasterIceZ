@@ -24,8 +24,7 @@ struct Info{
 </p>
 <p align="center">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=mastericez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="MasterIceZ's Github Stats">  
-<
 <p align="center">
-<img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact"/>
+<img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterIceZ&layout=compact&theme=algolia"/>
 </p>
 
