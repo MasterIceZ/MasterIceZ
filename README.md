@@ -11,7 +11,7 @@
 
 ## 📕 Repositories
 <p align="left">
-<a href="https://github.com/mastericez/posn-buu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mastericez&repo=posn_buu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="competitive programming"></a>
+<a href="https://github.com/mastericez/posn_buu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mastericez&repo=posn_buu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="competitive programming"></a>
 <a href="https://github.com/mastericez/sorting-hat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mastericez&repo=sorting-hat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="competitive programming"></a>
 <a href="https://github.com/mastericez/programming-task-tier"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mastericez&repo=programming-task-tier&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="competitive programming"></a>
 </p>
