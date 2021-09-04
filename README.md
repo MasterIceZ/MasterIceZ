@@ -1,4 +1,5 @@
 
+
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Borworntat Dendumrongkul's profile.
@@ -72,6 +73,9 @@
 </p>
 
 ## 📊 Github Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastericez&layout=compact&langs_count=10&bg_color=1F222E&text_color=F8D866&hide_border=true">
+</p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MasterIceZ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MasterIceZ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
