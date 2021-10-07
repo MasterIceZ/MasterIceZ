@@ -72,6 +72,8 @@
 	<img src="https://camo.githubusercontent.com/e922b45bfb79029cf4436e255b0d17b00b651e13b24f1751a9f87b14055fb4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465">
 </p>
 
+
+<!--
 ## 📊 Github Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastericez&layout=compact&langs_count=10&bg_color=1F222E&text_color=F8D866&hide_border=true">
@@ -82,9 +84,9 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mastericez&column=8&theme=onedark&no-frame=true"/>
 </a>
 </p>
+-->
 
 <!--
 Logos: https://github.com/Ileriayo/markdown-badges
 Graphs& Streak: https://github.com/DenverCoder1/DenverCoder1/blob/master/README.md
-
 -->
