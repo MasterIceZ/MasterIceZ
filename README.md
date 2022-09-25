@@ -19,6 +19,9 @@
 ## :blue_book: Working Experience
 - [ Witcom Rayongwittayakom School](https://witcom.rayongwit.ac.th)'s POSN Computer camp tutor. (2021-2022)
 - Computer Olympiad (Camp 1-2) tutor. (2022)
+<!--
+- POSN Burapha University Raayongwittayakom Center teacher assistant. (2022)
+-->
 
 ## 🔥 Streak
 <p align="center">
