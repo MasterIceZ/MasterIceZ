@@ -29,5 +29,4 @@
   </a>
 </p>
 
-[Advent of Code 2022 Solutions](https://github.com/MasterIceZ/IMSO/tree/main/Retired/AoC/2022)
 (Latest Update: 8 Dec 2022)
