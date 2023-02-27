@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Borworntat Dendumrongkul's profile.
 </h3>
+
 <p align="center">
 <a href="https://instagram.com/iicxx.exe_"><img src="https://img.shields.io/badge/iicxx.exe_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://twitter.com/_ibwt"><img src="https://img.shields.io/badge/_ibwt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
@@ -9,6 +10,10 @@
 <a href="https://facebook.com/borworntat.d"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Borworntat-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white">
 </p>
+
+## :computer:	Position
+- Student at Rayongwittayakom School
+- Task writer of [Crack 'n' Code Thailand](https://crackncode.org/)
 
 ## :trophy: Achievement
 - Bronze Medal ([Thailand Computing Olympiad 2020](https://thaco.tech/))
@@ -29,4 +34,4 @@
   </a>
 </p>
 
-(Latest Update: 8 Dec 2022)
+(Latest Update: 27 Feb 2023)
