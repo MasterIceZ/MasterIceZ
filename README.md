@@ -12,8 +12,9 @@
 </p>
 
 ## :computer:	Position
-- Student at Rayongwittayakom School
+- Student at [Chulalongkorn University](https://www.chula.ac.th/) (Computer Engineering)
 - Task writer of [Crack 'n' Code Thailand](https://crackncode.org/)
+- Developer of [programming.in.th](https://programming.in.th) (Junior level)
 
 ## :trophy: Achievement
 - Bronze Medal ([Thailand Computing Olympiad 2020](https://thaco.tech/))
@@ -34,4 +35,4 @@
   </a>
 </p>
 
-(Latest Update: 23 June 2023)
+(Latest Update: 8 Aug 2023)
