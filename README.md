@@ -14,8 +14,8 @@
 ## :computer:	Position
 - Student at [Chulalongkorn University](https://www.chula.ac.th/) (Computer Engineering)
 - Task writer of [Crack 'n' Code Thailand](https://crackncode.org/)
-- Developer of [programming.in.th](https://programming.in.th) (Junior level)
-- Frontend Developer of [ISD SGCU](https:/github.com/isd-sgcu)
+- Developer of [programming.in.th](https://programming.in.th)
+- Frontend Developer of [ISD SGCU](https://github.com/isd-sgcu)
 
 ## :trophy: Achievement
 - Bronze Medal ([Thailand Computing Olympiad 2020](https://thaco.tech/))
