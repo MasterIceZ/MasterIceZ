@@ -13,11 +13,12 @@
 
 ## :computer:	Position
 - Student at [Chulalongkorn University](https://www.chula.ac.th/) (Computer Engineering)
-- Problem writer of [ThailandOI contests](https://http://thailand-oi-task-team.github.io/)
+- Problem writer of [ThailandOI contests](https://thailand-oi-task-team.github.io/)
 - Developer of [programming.in.th](https://programming.in.th)
 - Frontend Developer of [ISD SGCU](https://github.com/isd-sgcu)
 
 ## :trophy: Achievement
+- Placed 30th of [2025 ICPC Asia Pacific Championship](https://apac.icpc.global/)
 - Winner of [ICPC Thailand National Competition 2024](https://icpc-2024.cp.eng.chula.ac.th/2024/)
 - Bronze Medal ([Thailand Computing Olympiad 2020](https://thaco.tech/))
 - Top 32 ([Thailand Online Competitive Programming Contest](https://tocpc.codes/) (2021))
