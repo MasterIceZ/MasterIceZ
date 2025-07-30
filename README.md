@@ -13,17 +13,17 @@
 
 ## :computer:	Position
 - Student at [Chulalongkorn University](https://www.chula.ac.th/) (Computer Engineering)
-- Problem writer of [ThailandOI contests](https://thailand-oi-task-team.github.io/)
+- Problem writer of [IOI Thailand Task Team](https://thailand-oi-task-team.github.io/)
 - Developer of [programming.in.th](https://programming.in.th)
 - Frontend Developer of [ISD SGCU](https://github.com/isd-sgcu)
 
 ## :trophy: Achievement
 - Placed 30th of [2025 ICPC Asia Pacific Championship](https://apac.icpc.global/)
 - Winner of [ICPC Thailand National Competition 2024](https://icpc-2024.cp.eng.chula.ac.th/2024/)
-- Bronze Medal ([Thailand Computing Olympiad 2020](https://thaco.tech/))
-- Top 32 ([Thailand Online Competitive Programming Contest](https://tocpc.codes/) (2021))
-- Silver Medal ([17th Thailand Olympiad in Informatics](https://www.facebook.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-17-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-105197518105636) (2021))
 - Silver Medal ([18th Thailand Olympiad in Informatics](https://www.facebook.com/toi18.cmu) (2022))
+- - Silver Medal ([17th Thailand Olympiad in Informatics](https://www.facebook.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-17-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-105197518105636) (2021))
+- Top 32 ([Thailand Online Competitive Programming Contest](https://tocpc.codes/) (2021))
+- Bronze Medal ([Thailand Computing Olympiad 2020](https://thaco.tech/))
 <!--
 ## :blue_book: Working Experience
 - [ Witcom Rayongwittayakom School](https://witcom.rayongwit.ac.th)'s POSN Computer camp tutor. (2021-2022)
